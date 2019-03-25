@@ -12,3 +12,5 @@ just configure the .reg file accordingly.
 "TimeToWait"=dword:000003e8 - delay until the text is sent
 
 those values can be adjusted to do the same with any window. if the focus is not on the editbox, additional code might be needed.
+
+compiled with Visual Studio Express 2017
