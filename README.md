@@ -5,7 +5,7 @@ this tool will automatically insert the email configured in the registry to the 
 
 just configure the .reg file accordingly.
 
-"TextToSend"="billg@microsoft.com" - the text to send
+"TextToSend"="sample@email.com" - the text to send
 "WindowTitle"="Meeting Host Account" - the window to look for
 "TimeToWait"=dword:000003e8 - delay until the text is sent
 
